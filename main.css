@@ -1,0 +1,129 @@
+html {
+    width: 900px;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #333;
+    height: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+body{
+    margin: 8px;
+    display: inline;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.intro {
+    padding-left: 66px;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+#avatar {
+    margin-top: 30px;
+    width: 120px;
+    height: 140px;
+    margin-left: 28px;
+    
+
+}
+
+h1 {
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 15px;
+}
+
+.column1 {
+    color: white;
+    background-color: rgba(0, 104, 180, 1);
+    display: block;
+    float: left;
+    width: 35%;
+    height: 100%;
+}
+
+.infor {
+    padding-left: 15px;
+    padding-right: 10px;
+}
+.in4{
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+.list-infor{
+    padding-left: 0;
+    font-weight: 100;
+    
+}
+.skilled {
+    width: 200px;
+    height: 7px;
+    background-color: white;
+    position: relative;
+    margin-bottom: 12px;
+}
+
+.skill-process1 {
+    position: absolute;
+    background-color:black;
+    width: 85%;
+    height: 100%;
+}
+.skill-process2 {
+    position: absolute;
+    background-color:black;
+    width: 90%;
+    height: 100%;
+}
+.skill-process3 {
+    position: absolute;
+    background-color:black;
+    width: 50%;
+    height: 100%;
+}
+.skill-process4 {
+    position: absolute;
+    background-color:black;
+    width: 50%;
+    height: 100%;
+}
+.skill-process5 {
+    position: absolute;
+    background-color:black;
+    width: 50%;
+    height: 100%;
+}
+.skill-process6 {
+    position: absolute;
+    background-color:black;
+    width: 70%;
+    height: 100%;
+}
+
+.column2 {
+    background-color: white;
+    padding-left: 15px;
+    display: block;
+    float: left;
+    width: 60%;
+    height: 100%;
+    
+}
+.work{
+    position: relative;
+}
+.year{
+    position: absolute;
+    right: 100px;
+}
